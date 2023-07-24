@@ -1,4 +1,3 @@
-Sure! Here's a README file for the project:
 
 # Chat with Multiple PDFs
 
