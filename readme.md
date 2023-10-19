@@ -1,4 +1,3 @@
-
 # Chat with Multiple PDFs
 
 This is a Streamlit web application that allows users to chat with a language model about the contents of multiple PDF documents. The application uses various natural language processing techniques to extract text from the uploaded PDFs, split the text into chunks, and then perform conversational retrieval based on user input.
@@ -55,3 +54,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Acknowledgments
 
 This project was built using various open-source libraries and tools. Special thanks to the creators of Streamlit, Hugging Face, PyPDF2, and FAISS for their contributions to the open-source community.
+
+## Images
+
+![Alt text](img/Screenshot%202023-10-19%20100307.png)
+![Alt text](img/Screenshot%202023-10-19%20101310.png)
+![Alt text](img/Screenshot%202023-10-19%20114329.png)
